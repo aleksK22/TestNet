@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
+    <e p="C:\Users\alexa\.Rider2018.2\config\extensions" t="IncludeRecursive" />
     <e p="C:\Users\alexa\.Rider2018.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\alexa\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_TestNinja.-498730833.00" t="ExcludeRecursive" />
     <e p="D:\AceCode\NET\TEST\TestNinja" t="IncludeFlat">
@@ -49,6 +50,8 @@
       <e p="TestNinja.sln" t="IncludeFlat" />
       <e p="TestNinjaUnitTest" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="DemeritPointCalculatorTest.cs" t="Include" />
+        <e p="FizzBuzzTest.cs" t="Include" />
         <e p="MathTests.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
