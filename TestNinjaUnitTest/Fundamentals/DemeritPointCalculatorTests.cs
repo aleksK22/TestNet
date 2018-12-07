@@ -5,7 +5,7 @@ using TestNinja.Fundamentals;
 namespace TestNinjaUnitTest
 {
    [TestFixture]
-   public class DemeritPointCalculatorTest
+   public class DemeritPointCalculatorTests
    {
 
       private DemeritPointsCalculator  _demeritPointCalculator;
@@ -56,7 +56,7 @@ namespace TestNinjaUnitTest
          //Arrange
          
          //Act
-         var result = _demeritPointCalculator.CalculateDemeritPoints(150);
+         var result = _demeritPointCalculator.CalculateDemeritPoints(speed);
          
          
          //Assert
