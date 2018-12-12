@@ -32,6 +32,13 @@
           <e p="Reservation.cs" t="Include" />
           <e p="Stack.cs" t="Include" />
         </e>
+        <e p="Infrastructure" t="Include">
+          <e p="Ninject.cs" t="Include" />
+        </e>
+        <e p="Interface" t="Include">
+          <e p="FileReader.cs" t="Include" />
+          <e p="IFileReader.cs" t="Include" />
+        </e>
         <e p="Mocking" t="Include">
           <e p="BookingHelper.cs" t="Include" />
           <e p="EmployeeController.cs" t="Include" />
@@ -56,6 +63,9 @@
           <e p="MathTests.cs" t="Include" />
           <e p="ReservationTests.cs" t="Include" />
           <e p="StackTests..cs" t="Include" />
+        </e>
+        <e p="Mocking" t="Include">
+          <e p="VideoServiceTests.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
